@@ -162,5 +162,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
    * Ensure Flutter SDK is up to date
 
 ---
-
-*Note: Replace `YOUR-USERNAME` with your actual GitHub username in the clone URL.*
