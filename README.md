@@ -91,29 +91,6 @@ truffle migrate --reset
 flutter run
 ```
 
----
-
-## 📁 Project Architecture
-
-```text
-ethereum-flutter-demo/
-├── blockchain/
-│   ├── contracts/               # Solidity smart contracts
-│   ├── migrations/              # Deployment scripts
-│   └── test/                    # Contract tests
-├── lib/
-│   ├── screens/                 # Application screens
-│   ├── services/                # Blockchain service layer
-│   ├── models/                  # Data models
-│   ├── utils/                   # Utilities and helpers
-│   └── widgets/                 # Reusable UI components
-├── assets/                      # Static assets
-│   └── abi/                     # Contract ABI files
-└── test/                        # Application tests
-```
-
----
-
 ## ⚡ Quick Start
 
 For a quick demonstration:
